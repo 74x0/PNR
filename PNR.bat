@@ -13,7 +13,7 @@ echo						  [31m / _ \/ \/ / _ \[0m
 echo						 [91m / ___/    /   _/[0m
 echo						[1;91m /_/  /_/\_/_/\_\[0m    
 echo.
-echo							 [1;91mby - xr4o [0m    
+echo							 [1;91mby - port [0m    
 echo.                                               
 echo. 
 :hub
